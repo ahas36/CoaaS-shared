@@ -1,0 +1,65 @@
+{
+    "@context": {
+        "CSD_ID": {
+            "@id": "coaas:csdid"
+        },
+        "csm": {
+            "@id": "coaas:csm"
+        },
+        "supportedVocabs": {
+            "@id": "coaas:csm/vocabs"
+        },
+        "serviceInput": {
+            "@id": "coaas:csm/serviceInput"
+        },
+        "mandatoryInputs": {
+            "@id": "coaas:csm/serviceInput/mandatory"
+        },
+        "ioName": {
+            "@id": "coaas:csm/serviceInput/ioTitle"
+        },
+        "optionalInputs": {
+            "@id": "coaas:csm/serviceInput/optionalInputs"
+        },
+        "serviceOutput": {
+            "@id": "coaas:csm/serviceOutput"
+        },
+        "outputs": {
+            "@id": "coaas:csm/serviceOutput/outputs"
+        },
+        "csg": {
+            "@id": "coaas:csg"
+        },
+        "accessType": {
+            "@id": "coaas:csg/accessType"
+        },
+        "restAccessType": {
+            "@id": "coaas:csg/accessType/restAccessType"
+        },
+        "URL": {
+            "@id": "coaas:csg/csp"
+        },
+        "csp": {
+            "@id": "coaas:csg/csp/url"
+        },
+        "serviceName": {
+            "@id": "coaas:csg/csp/serviceName"
+        },
+        "serviceType": {
+            "@id": "coaas:csg/csp/serviceType"
+        },
+        "serviceCost": {
+            "@id": "coaas:csg/csp/serviceCost"
+        },
+        "serviceCost": {
+            "@id": "coaas:csg/csp/serviceCost/priceCurrency"
+        },
+        "price": {
+            "@id": "coaas:csg/csp/serviceCost/price"
+        },
+        "targetedEntities": {
+            "@id": "coaas:csg/csp/targetedEntities"
+
+        }
+    }
+}
